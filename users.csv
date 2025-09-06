@@ -1,0 +1,21 @@
+userId,cleanlinessLevel,smokingPreference,drinkingPreference,sleepingSchedule,hobbies,budgetRange,preferredLocation
+1,2,yes,no,flexible,cooking,11114,Downtown
+2,2,yes,no,early,cooking,18243,City Center
+3,4,no,no,flexible,gaming,16086,Near College
+4,3,no,yes,late,cooking,12635,Near College
+5,1,no,no,flexible,reading,15373,City Center
+6,2,no,yes,early,sports,8582,Near College
+7,1,yes,no,flexible,travel,12652,Suburbs
+8,1,yes,yes,early,sports,10348,Near College
+9,5,no,no,late,gaming,16463,Suburbs
+10,2,yes,no,early,sports,14966,Suburbs
+11,3,yes,no,late,sports,5817,Near College
+12,4,no,yes,flexible,sports,14974,City Center
+13,3,yes,no,flexible,reading,6639,Suburbs
+14,5,no,yes,late,music,6026,Near College
+15,4,no,yes,flexible,gaming,18411,Downtown
+16,4,yes,no,late,cooking,7016,City Center
+17,2,no,no,late,gaming,19770,City Center
+18,1,yes,yes,flexible,gaming,17062,City Center
+19,3,yes,no,early,gaming,10028,City Center
+20,3,yes,yes,early,reading,11652,Downtown

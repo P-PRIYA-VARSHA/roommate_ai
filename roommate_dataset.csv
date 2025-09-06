@@ -1,0 +1,201 @@
+userId,cleanlinessLevel,smokingPreference,drinkingPreference,sleepingSchedule,budgetRange,preferredLocation,hobbies
+1,3,yes,yes,early,11708,Indiranagar,coding
+2,5,no,yes,early,16878,HSR Layout,"movies,reading,cooking"
+3,5,yes,no,night,12365,Whitefield,"reading,movies"
+4,2,yes,yes,early,17212,BTM Layout,"cooking,music"
+5,1,no,no,early,16150,HSR Layout,reading
+6,3,no,yes,early,7317,Koramangala,"coding,cricket,reading"
+7,2,no,yes,night,15888,Indiranagar,reading
+8,2,yes,no,irregular,5872,Koramangala,"coding,reading"
+9,1,yes,yes,early,9503,Whitefield,cricket
+10,1,yes,no,irregular,12532,Koramangala,travel
+11,3,yes,no,irregular,13733,HSR Layout,cricket
+12,3,no,yes,early,11310,Whitefield,"coding,movies,cricket"
+13,3,no,no,early,6202,Koramangala,music
+14,1,yes,no,early,10473,BTM Layout,music
+15,2,yes,yes,early,12844,Whitefield,"travel,cricket,coding"
+16,1,no,yes,night,12019,HSR Layout,travel
+17,2,yes,no,night,10434,Whitefield,music
+18,2,yes,no,early,14587,HSR Layout,movies
+19,4,yes,no,early,16537,HSR Layout,travel
+20,3,yes,no,night,12201,Whitefield,"cricket,cooking,coding"
+21,1,no,no,early,14144,Indiranagar,"reading,music"
+22,4,no,no,night,5483,Whitefield,"movies,coding,cricket"
+23,1,yes,yes,early,7812,BTM Layout,"cooking,music,reading"
+24,3,no,no,night,8943,Koramangala,"reading,coding"
+25,5,yes,yes,night,13052,BTM Layout,cooking
+26,2,yes,no,night,13921,Koramangala,"music,reading"
+27,5,yes,yes,night,19128,Whitefield,"coding,cricket"
+28,5,yes,no,irregular,19515,Whitefield,"cricket,music"
+29,2,no,yes,irregular,12417,HSR Layout,movies
+30,1,yes,no,night,15517,Indiranagar,reading
+31,5,no,no,night,7003,Indiranagar,"cooking,movies"
+32,5,yes,yes,early,12160,HSR Layout,"reading,cooking"
+33,3,yes,no,night,10474,Whitefield,"cooking,music,cricket"
+34,3,yes,yes,early,8679,HSR Layout,"reading,movies"
+35,5,yes,no,night,18341,Koramangala,"movies,music,reading"
+36,1,no,no,early,17464,HSR Layout,"travel,cooking"
+37,3,yes,yes,early,14352,Whitefield,"cricket,movies,music"
+38,5,no,yes,early,6159,BTM Layout,"reading,travel"
+39,1,yes,no,night,10852,BTM Layout,"cricket,music"
+40,5,no,no,night,6344,Whitefield,"movies,reading,coding"
+41,1,no,yes,night,11570,BTM Layout,coding
+42,5,yes,yes,irregular,11088,BTM Layout,music
+43,4,no,no,night,17477,HSR Layout,"reading,coding"
+44,3,yes,no,irregular,9327,Whitefield,"cricket,movies,travel"
+45,2,no,no,irregular,7008,Indiranagar,coding
+46,5,yes,yes,early,18404,Indiranagar,"travel,coding"
+47,3,yes,yes,night,15576,BTM Layout,"travel,cooking,reading"
+48,4,no,yes,early,10171,Whitefield,"travel,movies"
+49,3,no,yes,night,18885,HSR Layout,"reading,movies"
+50,1,no,yes,irregular,9751,Indiranagar,coding
+51,4,no,yes,night,14723,Koramangala,"music,reading"
+52,5,no,no,irregular,5210,Indiranagar,"cricket,music,travel"
+53,5,no,yes,early,8897,Indiranagar,"coding,cricket"
+54,2,yes,no,night,11503,Whitefield,"movies,reading"
+55,3,yes,yes,night,7868,Indiranagar,reading
+56,3,yes,yes,irregular,5250,BTM Layout,"cooking,travel"
+57,2,yes,no,night,9243,Indiranagar,reading
+58,2,no,no,night,11767,Whitefield,coding
+59,5,yes,yes,night,5212,HSR Layout,cricket
+60,3,no,yes,irregular,13849,HSR Layout,"travel,reading,music"
+61,4,yes,yes,irregular,16727,HSR Layout,"music,travel,coding"
+62,4,yes,yes,irregular,14807,Whitefield,"movies,cooking,cricket"
+63,1,yes,yes,night,19926,BTM Layout,"cricket,travel"
+64,4,no,yes,early,5317,BTM Layout,"movies,cooking,cricket"
+65,5,yes,no,night,10479,BTM Layout,"coding,cricket,movies"
+66,5,no,yes,irregular,10049,Whitefield,"movies,music,cricket"
+67,1,no,no,night,13705,BTM Layout,"cricket,reading"
+68,2,no,no,night,11109,Koramangala,reading
+69,4,yes,yes,irregular,6733,Whitefield,"reading,movies"
+70,2,yes,yes,night,11058,Whitefield,reading
+71,2,no,no,early,17782,HSR Layout,coding
+72,3,yes,yes,irregular,14301,Indiranagar,reading
+73,3,yes,no,early,8814,Indiranagar,"coding,reading"
+74,1,no,no,early,7844,Whitefield,cooking
+75,3,yes,no,irregular,17562,BTM Layout,"reading,coding"
+76,4,no,no,night,16884,BTM Layout,reading
+77,5,no,yes,irregular,7203,HSR Layout,"coding,cricket"
+78,1,no,no,night,8555,Koramangala,music
+79,2,no,yes,early,10283,Whitefield,"cricket,travel"
+80,4,yes,yes,night,17935,Koramangala,"reading,cooking,cricket"
+81,4,no,yes,night,8441,Koramangala,"coding,reading"
+82,3,no,no,irregular,7830,Whitefield,cricket
+83,3,no,yes,irregular,7702,HSR Layout,"cricket,music"
+84,1,no,no,night,8282,Koramangala,"cricket,reading"
+85,5,no,yes,irregular,15898,Koramangala,music
+86,4,no,yes,irregular,14241,Koramangala,"music,travel,reading"
+87,3,no,yes,irregular,6938,Indiranagar,"travel,music,cooking"
+88,3,no,yes,irregular,16544,Koramangala,"movies,coding"
+89,4,yes,no,night,6737,BTM Layout,"cooking,coding"
+90,5,yes,yes,early,14084,Whitefield,"cricket,reading"
+91,3,no,yes,early,18094,Whitefield,"reading,coding,cooking"
+92,5,yes,no,early,7486,BTM Layout,"movies,travel,coding"
+93,3,yes,no,early,9512,BTM Layout,"cooking,reading"
+94,3,no,yes,early,19691,Indiranagar,coding
+95,2,no,no,irregular,16076,Whitefield,cooking
+96,5,no,yes,night,12062,Indiranagar,"cricket,travel,music"
+97,2,no,no,irregular,8987,BTM Layout,"music,coding"
+98,2,no,no,night,19736,Koramangala,"cricket,reading"
+99,5,yes,no,early,17627,HSR Layout,"coding,movies,music"
+100,3,yes,no,night,16137,Indiranagar,"travel,cooking,reading"
+101,5,yes,yes,night,19388,Whitefield,cricket
+102,3,no,no,irregular,10103,Koramangala,travel
+103,3,no,no,irregular,18398,BTM Layout,"movies,coding,cooking"
+104,5,yes,yes,early,19297,Indiranagar,"cooking,reading,coding"
+105,5,yes,no,irregular,14014,HSR Layout,cricket
+106,3,no,yes,night,17990,HSR Layout,coding
+107,2,no,no,night,14210,Indiranagar,cooking
+108,2,yes,no,night,17635,BTM Layout,"music,movies"
+109,5,yes,no,night,15173,HSR Layout,"reading,cricket,travel"
+110,3,no,yes,night,6803,HSR Layout,"cricket,coding"
+111,3,yes,no,night,5505,HSR Layout,cricket
+112,3,no,yes,early,17700,HSR Layout,"cricket,movies"
+113,5,no,no,night,11230,Koramangala,"reading,travel,cricket"
+114,2,yes,yes,early,5797,Koramangala,"movies,reading"
+115,3,no,yes,early,18331,BTM Layout,"cricket,cooking"
+116,3,yes,no,night,16300,Koramangala,"reading,cooking,music"
+117,3,yes,yes,irregular,9738,Indiranagar,"cricket,movies,coding"
+118,2,no,no,early,16454,Whitefield,"movies,reading,cricket"
+119,2,yes,yes,night,14463,BTM Layout,coding
+120,2,no,no,early,11832,Koramangala,"coding,movies,cricket"
+121,5,yes,no,irregular,19452,Whitefield,movies
+122,4,no,yes,irregular,12411,Koramangala,"coding,music"
+123,4,yes,no,irregular,14698,Whitefield,"music,reading,cooking"
+124,1,no,no,early,13594,BTM Layout,"music,travel,movies"
+125,5,yes,yes,irregular,10869,Whitefield,travel
+126,2,no,no,early,14961,Koramangala,"cricket,movies"
+127,5,yes,yes,night,19517,HSR Layout,"travel,cricket"
+128,5,no,no,night,13693,BTM Layout,cricket
+129,3,no,yes,night,9851,Indiranagar,travel
+130,3,yes,yes,night,5929,Indiranagar,"movies,coding"
+131,4,yes,yes,early,9541,BTM Layout,"travel,movies,coding"
+132,2,no,no,irregular,18026,Koramangala,"movies,cooking"
+133,2,yes,no,irregular,14522,Whitefield,"coding,cricket,cooking"
+134,3,yes,yes,early,17919,Indiranagar,"music,cricket,cooking"
+135,2,yes,no,early,9913,Whitefield,"reading,cooking"
+136,4,yes,no,irregular,14683,HSR Layout,"cooking,reading"
+137,4,no,no,early,15589,BTM Layout,cricket
+138,5,no,yes,early,7103,Whitefield,reading
+139,4,yes,no,night,10463,Whitefield,"cricket,coding,reading"
+140,4,yes,yes,night,12972,Whitefield,"movies,cricket"
+141,1,yes,yes,night,6335,Koramangala,"music,cooking"
+142,1,yes,yes,early,11161,Koramangala,"cooking,coding"
+143,3,yes,no,early,7162,Indiranagar,"cricket,movies"
+144,2,yes,yes,night,10338,Whitefield,"coding,cricket"
+145,1,no,yes,early,19021,HSR Layout,reading
+146,2,yes,yes,night,15718,Koramangala,"music,reading,travel"
+147,1,no,no,irregular,13129,Whitefield,cricket
+148,3,no,yes,irregular,5488,Whitefield,cricket
+149,5,no,yes,irregular,11932,BTM Layout,"cooking,movies"
+150,4,no,yes,irregular,8254,HSR Layout,"cricket,travel,coding"
+151,3,yes,no,irregular,10233,Indiranagar,music
+152,1,yes,no,irregular,12690,Koramangala,"movies,cricket"
+153,2,yes,no,irregular,15418,Koramangala,"cricket,movies,coding"
+154,1,no,no,night,11413,HSR Layout,travel
+155,2,yes,yes,irregular,7735,Koramangala,"coding,reading,movies"
+156,1,no,no,early,7127,Koramangala,"music,coding,reading"
+157,4,yes,yes,irregular,18966,HSR Layout,"travel,cooking,coding"
+158,1,yes,no,early,17308,Whitefield,coding
+159,1,no,yes,irregular,10591,HSR Layout,"reading,cooking"
+160,1,no,yes,night,12018,Indiranagar,cooking
+161,5,yes,yes,night,15538,Whitefield,"coding,reading"
+162,4,no,yes,night,8842,HSR Layout,music
+163,4,no,no,night,17524,Whitefield,"cricket,music"
+164,4,yes,no,irregular,17462,Indiranagar,"movies,coding,cricket"
+165,5,no,no,early,12683,Koramangala,"cricket,music,travel"
+166,5,yes,no,irregular,7874,HSR Layout,"cooking,coding,reading"
+167,1,no,no,night,7610,Koramangala,movies
+168,4,no,no,night,8472,HSR Layout,"coding,movies"
+169,2,no,no,early,15930,BTM Layout,reading
+170,2,yes,yes,night,17336,Indiranagar,"cricket,music,coding"
+171,3,no,yes,night,5465,Koramangala,reading
+172,5,yes,yes,night,9985,BTM Layout,cooking
+173,1,no,yes,night,13986,Indiranagar,cricket
+174,1,yes,yes,irregular,16735,Indiranagar,cricket
+175,3,yes,yes,night,19604,Indiranagar,"coding,cricket,reading"
+176,1,yes,yes,night,15034,Indiranagar,"coding,movies"
+177,3,no,no,irregular,13866,BTM Layout,"movies,cooking,music"
+178,1,yes,yes,night,6054,Koramangala,coding
+179,1,yes,yes,irregular,10035,BTM Layout,"cricket,music"
+180,4,no,no,early,6876,Indiranagar,music
+181,3,no,yes,early,14117,Indiranagar,travel
+182,4,no,no,night,17634,Koramangala,travel
+183,4,yes,no,night,15961,HSR Layout,"cricket,coding,reading"
+184,3,no,yes,night,12043,Indiranagar,"cricket,coding"
+185,1,yes,yes,night,15218,Koramangala,"coding,music"
+186,3,yes,no,irregular,14874,HSR Layout,"coding,cricket,reading"
+187,5,no,yes,night,18590,BTM Layout,"music,movies,coding"
+188,1,no,yes,early,8483,Koramangala,"movies,travel"
+189,2,yes,yes,night,15819,Whitefield,movies
+190,3,no,no,night,9651,Whitefield,"cooking,music"
+191,5,yes,yes,night,11105,Indiranagar,travel
+192,4,no,yes,irregular,19683,HSR Layout,"travel,reading"
+193,2,no,yes,early,6029,Koramangala,"cricket,reading,coding"
+194,4,yes,yes,irregular,16207,Koramangala,"reading,travel"
+195,4,no,no,early,11914,BTM Layout,"cricket,coding,movies"
+196,1,no,yes,irregular,12799,Whitefield,reading
+197,2,no,yes,early,5414,BTM Layout,"cricket,cooking"
+198,2,yes,yes,irregular,16497,Koramangala,"movies,cooking"
+199,2,no,yes,early,15150,Whitefield,movies
+200,4,no,no,irregular,12224,Koramangala,"movies,music,coding"
