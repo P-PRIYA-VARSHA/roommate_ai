@@ -3,8 +3,8 @@
 This project is a Recommendation System that helps users find suitable roommates and PG (Paying Guest) accommodations based on compatibility scores.
 It uses the CatBoost Regressor model to predict compatibility levels.
 
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/P-PRIYA-VARSHA/roommate_ai.git
+cd roommate_ai
 
 2. Install the required libraries
 
@@ -38,7 +38,7 @@ Integrate a map-based PG location search
 Implement collaborative filtering for better recommendations
 
 
-![Result Description
+![Description](Result.png)
 
 For User 10, the system identified three top roommate matches based on lifestyle compatibility and preferences:
 
@@ -48,5 +48,4 @@ User 13 follows closely with an 80.12% match, having similar smoking and drinkin
 
 User 9 shows a 68.63% match, differing slightly in sleeping habits (late schedule) but aligning well in terms of non-smoking, non-drinking preferences, and suburban location choice.
 
-Overall, the recommendation system effectively suggests roommates with closely aligned habits, budgets, and lifestyle choices, demonstrating how the model can assist users in finding compatible living partners.](Result.png)
-
+Overall, the recommendation system effectively suggests roommates with closely aligned habits, budgets, and lifestyle choices, demonstrating how the model can assist users in finding compatible living partners.
